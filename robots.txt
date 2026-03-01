@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://stefanpreuer.github.io/sitemap.xml
